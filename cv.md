@@ -10,5 +10,15 @@
    - Figma
    - TypeScript
    - Angular
+5. 
     ```
-    
+   function evenOrOdd(number) {
+
+    return number % 2 === 0 ? 'Even' : 'Odd';
+
+       }
+   ```
+
+6. [My studies project] (https://github.com/Ruslan93Nazarov/ticketSalesMaster.git).
+7. in July I completed retraining courses at Peter the Great University. Educated as a Web Developer.
+8. I took English courses for several years. Now my English level is between B1 and B2.
