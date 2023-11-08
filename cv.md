@@ -1,7 +1,7 @@
 1. My name **Nazarov Ruslan**
 2. My contacts:
-   - Email: Ruslan93Nazov@gmail.com,
-   - telegram: @Ruslan93Nazov
+   - [Email:] (Ruslan93Nazov@gmail.com){style="color: red;"} ,
+   - [telegram:] (@Ruslan93Nazov){style="color: red;"}
 3. My goal is to complete all stages of training at RSschool and get a ticket to IT.
 4. My skills are :
    - JS
@@ -10,13 +10,12 @@
    - Figma
    - TypeScript
    - Angular
-5. 
-    ```
+5. ```
    function evenOrOdd(number) {
 
-    return number % 2 === 0 ? 'Even' : 'Odd';
+   return number % 2 === 0 ? 'Even' : 'Odd';
 
-       }
+      }
    ```
 
 6. [My studies project] (https://github.com/Ruslan93Nazarov/ticketSalesMaster.git).
